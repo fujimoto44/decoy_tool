@@ -2,6 +2,11 @@
 
 Selects Monero decoys and builds signable rings from global index data.
 
+> [!NOTE]
+> **Note:** The project works for now based on the current RingCT system.
+> However, FCMP++ will break it, so I plan to implement fundamental
+> changes once it becomes the default on mainnet.
+
 ## Status
 
 This has been tested against a live mainnet node and produced correct,
